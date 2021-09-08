@@ -28,7 +28,7 @@
 # MS Azure 웹 콘솔
 
 ## 생성된 워크스페이스 리스트
-![image](./workspace.jpg)
+![image](./workspace.png)
 
 ## 생성된 스토리지 리스트
-![image](./storage.jpg)
+![image](./storage.png)
