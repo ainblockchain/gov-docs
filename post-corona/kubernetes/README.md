@@ -28,7 +28,7 @@
 # 결과물 
 
 ## 생성된 워크스페이스 리스트
-![image](./workspace.png)
+![image](./storage.png)
 
 ## 생성된 스토리지 리스트
-![image](./storage.png)
+![image](./workspace.png)
