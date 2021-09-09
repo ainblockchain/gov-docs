@@ -25,7 +25,7 @@
 
 
 
-# MS Azure 웹 콘솔
+# 결과물 
 
 ## 생성된 워크스페이스 리스트
 ![image](./workspace.png)
